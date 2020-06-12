@@ -11,7 +11,7 @@
 ###############################################################################
 
 # virtualenv bin and build dirs
-PYTHON_VERSION=3.5
+PYTHON_VERSION=3.6
 BIN := $(PYTHON_BUILD)/bin
 SRC := $(MAGMA_ROOT)
 SITE_PACKAGES_DIR := $(PYTHON_BUILD)/lib/python$(PYTHON_VERSION)/site-packages
